@@ -1,5 +1,7 @@
 # Exploratory Data Analysis, Visualization and Dashboarding.
 
+![Screenshot 2023-11-29 222447](https://github.com/arnoldchrisoduor1/Trading-Analysis-Data_Pandas-Excel/assets/109024629/9d2b94ba-487f-4700-b9fc-d6d0c4e830cb)
+
 ## This project involved the following:-
 
 - Data Cleaning.
@@ -27,3 +29,4 @@
 ## Recommendation.
 
 - We need more data over a long period of years.
+
